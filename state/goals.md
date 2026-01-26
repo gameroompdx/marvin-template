@@ -1,33 +1,34 @@
 # Goals
 
-<!-- SETUP NOT COMPLETE: This file has placeholder content -->
-<!-- MARVIN will update this during setup -->
-
-Last updated: Not yet configured
+Last updated: 2026-01-26
 
 ---
 
 ## Work Goals
 
-Goals related to your job - KPIs, projects, professional development, team goals.
-
-*Examples:*
-- Hit Q1 revenue target
-- Ship the new feature by March
-- Get promoted to senior
-- Improve team velocity by 20%
+- Complete Async Dyad
+- Complete Clinician Tune-up
+- Create leader tune-up
+- Create 4dx course
+- Complete REMS tracking
+- Create CPR course
+- Convert Show Them You Know Them
+- Recreate business of medicine course
+- Run annual compliance program
+- Presentation summaries repository
 
 ---
 
 ## Personal Goals
 
-Goals for life outside work - health, hobbies, relationships, personal growth.
-
-*Examples:*
-- Walk 10k steps daily
-- Write a blog post every week
-- Read 24 books this year
-- Learn to play guitar
+- Sell car
+- Stay on top of son Fletcher's homework and school
+- Track fitness and workout
+- Camper trade out
+- Taxes
+- Budget
+- Property management of real estate
+- Work towards retirement
 
 ---
 
@@ -35,8 +36,25 @@ Goals for life outside work - health, hobbies, relationships, personal growth.
 
 | Goal | Type | Status | Notes |
 |------|------|--------|-------|
-| Complete MARVIN setup | - | In progress | |
+| Complete Async Dyad | Work | Not started | |
+| Complete Clinician Tune-up | Work | Not started | |
+| Create leader tune-up | Work | Not started | |
+| Create 4dx course | Work | Not started | |
+| Complete REMS tracking | Work | Not started | |
+| Create CPR course | Work | Not started | |
+| Convert Show Them You Know Them | Work | Not started | |
+| Recreate business of medicine course | Work | Not started | |
+| Run annual compliance program | Work | Not started | |
+| Presentation summaries repository | Work | Not started | |
+| Sell car | Personal | Not started | |
+| Stay on top of Fletcher's homework | Personal | Ongoing | |
+| Track fitness and workout | Personal | Ongoing | |
+| Camper trade out | Personal | Not started | |
+| Taxes | Personal | Not started | |
+| Budget | Personal | Ongoing | |
+| Property management | Personal | Ongoing | |
+| Work towards retirement | Personal | Ongoing | |
 
 ---
 
-*Tell MARVIN about your goals during setup, and they'll appear here. You can update these anytime - just say "let's update my goals."*
+*You can update these anytime - just say "let's update my goals."*
