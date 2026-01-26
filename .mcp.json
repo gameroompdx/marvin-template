@@ -1,0 +1,20 @@
+{
+  "mcpServers": {
+    "google-personal": {
+      "command": "uvx",
+      "args": ["mcp-google-workspace", "--tools", "gmail", "drive", "calendar", "docs", "sheets", "slides"],
+      "env": {
+        "GOOGLE_OAUTH_CLIENT_ID": "${GOOGLE_OAUTH_CLIENT_ID}",
+        "GOOGLE_OAUTH_CLIENT_SECRET": "${GOOGLE_OAUTH_CLIENT_SECRET}"
+      }
+    },
+    "google-work": {
+      "command": "uvx",
+      "args": ["mcp-google-workspace", "--tools", "gmail", "drive", "calendar", "docs", "sheets", "slides"],
+      "env": {
+        "GOOGLE_OAUTH_CLIENT_ID": "${GOOGLE_OAUTH_CLIENT_ID}",
+        "GOOGLE_OAUTH_CLIENT_SECRET": "${GOOGLE_OAUTH_CLIENT_SECRET}"
+      }
+    }
+  }
+}
