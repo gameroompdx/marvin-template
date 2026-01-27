@@ -1,25 +1,33 @@
 # Current State
 
-Last updated: 2026-01-27
+Last updated: 2026-01-26
 
-## Active Priorities
+## Tomorrow's Focus (Jan 27)
 
-1. Prioritize personal goals (especially selling stuff and taxes)
-2. Pick a work project to focus on this week
-3. Start making daily progress
+**Personal:**
+1. Post car on marketplace (photos ready)
+2. Tax prep: hunt emails for statements, download, store on Drive
+
+**Work:**
+- Daily progress on projects in priority order (start with Async Dyad)
 
 ## Open Threads
 
-- No urgent work deadlines - can work incrementally on all projects
-- Need to order/prioritize home tasks tomorrow
-- High priority home items: selling stuff, taxes
+- Henry working on Async Dyad
+- Need to ask Kristie about participation & sponsorship (Async Dyad)
+- Annual Compliance Program details TBD
+
+## Project Status
+
+**In Progress:** Async Dyad, Clinician Tune-up, Presentation Summaries
+**Not Started:** Leader Tune-up, 4DX, REMS, CPR, Show Them You Know Them
+**Pending:** Annual Compliance Program
 
 ## Recent Context
 
-- Setup complete
-- Work: 10 course/project goals, no pressing deadlines
-- Personal: 8 goals, selling stuff and taxes are top priorities
-- Plan: Make daily progress on work projects, tackle home priorities ASAP
+- All 9 work projects have detailed next actions (see goals.md)
+- Work approach: small daily progress on all projects in priority order
+- Car sale ready to list, taxes have 5-step prep checklist
 
 ---
 
