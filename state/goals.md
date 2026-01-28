@@ -29,6 +29,8 @@ Last updated: 2026-01-26
 - Budget
 - Property management of real estate
 - Work towards retirement
+- Music Trivia game
+- Vibe coding education
 
 ---
 
@@ -46,7 +48,7 @@ Last updated: 2026-01-26
 | Recreate business of medicine course | Work | Not started | |
 | Run annual compliance program | Work | Not started | |
 | Presentation summaries repository | Work | Not started | |
-| Sell car | Personal | Not started | |
+| Sell car | Personal | In progress | Listed on Craigslist & FB Marketplace, bill of sale ready |
 | Stay on top of Fletcher's homework | Personal | Ongoing | |
 | Track fitness and workout | Personal | Ongoing | |
 | Camper trade out | Personal | Not started | |
@@ -54,6 +56,8 @@ Last updated: 2026-01-26
 | Budget | Personal | Ongoing | |
 | Property management | Personal | Ongoing | |
 | Work towards retirement | Personal | Ongoing | |
+| Music Trivia game | Personal | Not started | |
+| Vibe coding education | Personal | Not started | |
 
 ---
 
