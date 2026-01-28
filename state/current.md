@@ -11,8 +11,9 @@ Last updated: 2026-01-27
 ## Open Threads
 
 - No urgent work deadlines - can work incrementally on all projects
-- Need to order/prioritize home tasks tomorrow
-- High priority home items: selling stuff, taxes
+- **Car sale in progress** - 2006 Honda EX-P listed on Craigslist & FB Marketplace, bill of sale ready
+- Camper trade on hold (waiting on wife's job situation)
+- Taxes - checking with wife, update expected tomorrow
 
 ## Recent Context
 
