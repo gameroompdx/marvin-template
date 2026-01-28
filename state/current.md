@@ -4,9 +4,10 @@ Last updated: 2026-01-27
 
 ## Active Priorities
 
-1. Prioritize personal goals (especially selling stuff and taxes)
+1. Fletcher's classes - gameplan when schedule is available
 2. Pick a work project to focus on this week
-3. Start making daily progress
+3. Get tax update from wife
+4. Daily: 30 min vibe coding + fitness tracking
 
 ## Open Threads
 
