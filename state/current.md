@@ -1,25 +1,26 @@
 # Current State
 
-Last updated: 2026-01-27
+Last updated: 2026-01-29
 
 ## Active Priorities
 
-1. Prioritize personal goals (especially selling stuff and taxes)
-2. Pick a work project to focus on this week
-3. Start making daily progress
+1. Car sale -- buyer's mechanic testing today, expect sale soon
+2. Taxes -- fill out Drive spreadsheet with rental repair/utility data by Feb 4
+3. California trip -- driving south this week, Elk Grove hotel (Holiday Inn Express, book Mon/Tue)
+4. Pick a work project to focus on this week
 
 ## Open Threads
 
-- No urgent work deadlines - can work incrementally on all projects
-- Need to order/prioritize home tasks tomorrow
-- High priority home items: selling stuff, taxes
+- Business of Medicine course removed from goals (no longer in use)
+- 9 active work projects, detailed status captured in goals.md
+- Dyad and Clinician Tune-up have specific bugs/tasks to knock out
+- 4DX and REMS have partial progress
 
 ## Recent Context
 
-- Setup complete
-- Work: 10 course/project goals, no pressing deadlines
-- Personal: 8 goals, selling stuff and taxes are top priorities
-- Plan: Make daily progress on work projects, tackle home priorities ASAP
+- Work project statuses updated with specific next steps
+- No urgent work deadlines - can work incrementally
+- Personal: car sale imminent, taxes in progress, CA trip planned this week
 
 ---
 
